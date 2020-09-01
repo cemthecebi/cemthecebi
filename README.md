@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Cem Berke Çebi
+### Hi there 👋, I'm Cem
 I'm a software engineer based in Istanbul, TR specializing in building back-end and mobile applications.
 
 Skills: Java, Spring, JPA,Hibernate
