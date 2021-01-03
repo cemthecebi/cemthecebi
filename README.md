@@ -6,4 +6,4 @@
 [![twitter](https://img.shields.io/badge/-@cemberkecebi-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/cemberkecebi/)
 
 
-[![Cem's github stats](https://github-readme-stats.vercel.app/api?username=cemthecebi&count_private=true&show_icons=true&theme=gotham)](https://github-readme-stats.vercel.app/api?username=cemthecebi&count_private=true&show_icons=true&theme=dark)
+[![Cem's github stats](https://github-readme-stats.vercel.app/api?username=cemthecebi&count_private=true&show_icons=true&theme=slateorange)](https://github-readme-stats.vercel.app/api?username=cemthecebi&count_private=true&show_icons=true&theme=dark)
